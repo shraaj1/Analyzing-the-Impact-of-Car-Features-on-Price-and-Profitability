@@ -1,4 +1,4 @@
-## Analyzing the Impact of Car Features on Price and Profitability
+## Analyzing the Impact of Car Features on Price and Profitability - Data Analysis by Raj Rathod
 
 ### Overview
 Welcome to the "Analyzing the Impact of Car Features on Price and Profitability" project repository! In this project, we delve into the automotive industry to understand the factors influencing consumer demand for cars and how car manufacturers can optimize pricing and product development decisions to maximize profitability while meeting consumer demand.
