@@ -16,7 +16,7 @@ Welcome to the "Analyzing the Impact of Car Features on Price and Profitability"
 - **Video Presentation**: [Link to Video Presentation](https://www.awesomescreenshot.com/video/25738060?key=e546effa97dff2e358a15cdbf8312356)
 
 ### Project Contributors
-- LinkedIn Profile](https://www.linkedin.com/in/rajrathod54321/) - Project Lead and Analyst
+- LinkedIn Profile] (https://www.linkedin.com/in/rajrathod54321/) - Project Lead and Analyst
 - GitHub ID: [@Shraaj1](https://github.com/Shraaj1)
 - Email: rajr65037@gmail.com
 
